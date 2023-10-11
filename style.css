@@ -1,0 +1,22 @@
+
+body {
+	font-family: "Times New Roman", serif;
+	background-color: #111827;
+}
+
+div {
+	margin: 25px 200px 75px 200px;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
