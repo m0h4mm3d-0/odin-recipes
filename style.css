@@ -1,7 +1,17 @@
+.module {
+	padding: 1rem;
+	background: #9daaa2;
+}
+
+.module h1 {
+	background: #b89694;
+	margin: -1rem -1rem 1rem -1rem;
+	padding: 1rem;
+}
 
 body {
 	font-family: "Times New Roman", serif;
-	background-color: #111827;
+	background-color: #718e88;
 }
 
 div {
